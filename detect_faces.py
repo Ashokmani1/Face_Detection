@@ -4,6 +4,7 @@
 # import the necessary packages
 import numpy as np
 import argparse
+from google.colab.patches import cv2_imshow
 import cv2
 
 # construct the argument parse and parse the arguments
